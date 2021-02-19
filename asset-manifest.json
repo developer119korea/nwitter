@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https/developer119korea.github.io/nwitter/static/css/main.931739ec.chunk.css",
+    "main.js": "/https/developer119korea.github.io/nwitter/static/js/main.fec184be.chunk.js",
+    "main.js.map": "/https/developer119korea.github.io/nwitter/static/js/main.fec184be.chunk.js.map",
+    "runtime-main.js": "/https/developer119korea.github.io/nwitter/static/js/runtime-main.8615ca0a.js",
+    "runtime-main.js.map": "/https/developer119korea.github.io/nwitter/static/js/runtime-main.8615ca0a.js.map",
+    "static/js/2.26ca8f19.chunk.js": "/https/developer119korea.github.io/nwitter/static/js/2.26ca8f19.chunk.js",
+    "static/js/2.26ca8f19.chunk.js.map": "/https/developer119korea.github.io/nwitter/static/js/2.26ca8f19.chunk.js.map",
+    "index.html": "/https/developer119korea.github.io/nwitter/index.html",
+    "static/css/main.931739ec.chunk.css.map": "/https/developer119korea.github.io/nwitter/static/css/main.931739ec.chunk.css.map",
+    "static/js/2.26ca8f19.chunk.js.LICENSE.txt": "/https/developer119korea.github.io/nwitter/static/js/2.26ca8f19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8615ca0a.js",
+    "static/js/2.26ca8f19.chunk.js",
+    "static/css/main.931739ec.chunk.css",
+    "static/js/main.fec184be.chunk.js"
+  ]
+}
